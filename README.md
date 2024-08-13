@@ -75,12 +75,6 @@ LinkedIn Profile: [Praveen Basavapatna Madhava](https://www.linkedin.com/in/prav
 
 <br clear="left" />
 
-### **_LLM Libraries and Tools_**
-
-- OpenAI API
-- LangChain
-- Ollama
-
 ### **_Google Cloud Platform_**
 
 - BigQuery
