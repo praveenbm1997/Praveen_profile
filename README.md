@@ -46,12 +46,10 @@ LinkedIn Profile: [Praveen Basavapatna Madhava](https://www.linkedin.com/in/prav
 
 ### **_Data Visualization Tools_**
 
-<img align="left" alt="Power BI" width="40px" style="padding-right:60px;" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" title="Power BI"/>
-<img align="left" alt="Tableau" width="40px" style="padding-right:60px;" src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" title="Tableau"/>
-<img align="left" alt="Qlik Sense" width="40px" style="padding-right:60px;" src="https://www.vectorlogo.zone/logos/qlik/qlik-icon.svg" title="Qlik Sense"/>
-
-<br clear="left" />
-
+- Power BI
+- Tableau
+- Qlik Sense
+  
 ### **_Web Development Stack_**
 
 <img align="left" alt="HTML" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="HTML"/>
@@ -77,7 +75,16 @@ LinkedIn Profile: [Praveen Basavapatna Madhava](https://www.linkedin.com/in/prav
 - BigQuery
 - Pub/Sub
 - Vertex AI
+### **_Palantir Foundry_**
 
+- Use of Data Engineering and Data Analystics tools available in this cloud platform
+
+### **_Microsoft tools_**
+
+- Power Automate
+- Power Apps
+- Office
+  
 ### **_Others_**
 
 <img align="left" alt="Visual Studio Code" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code"/>
@@ -85,5 +92,7 @@ LinkedIn Profile: [Praveen Basavapatna Madhava](https://www.linkedin.com/in/prav
 <img align="left" alt="Postman" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman"/>
 <img align="left" alt="Git" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
 <img align="left" alt="GitHub" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
+<img align="left" alt="LATEX" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" title="LATEX"/>
+
 
 <br clear="left" />
