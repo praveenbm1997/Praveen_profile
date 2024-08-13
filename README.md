@@ -1,6 +1,6 @@
 # Praveen Basavapatna Madhava
 
-**`Coding Aficionado (Developer/Data Analyst/Data Engineer/Tech Enthusiast)`**
+**`Coding Aficionado (Developer/Data Analyst/Data Engineer)`**
 
 LinkedIn Profile: [Praveen Basavapatna Madhava](https://www.linkedin.com/in/praveen-basavapatna-madhava/)
 
