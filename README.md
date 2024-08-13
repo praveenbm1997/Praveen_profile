@@ -2,6 +2,17 @@
 
 **`Coding Aficionado (Developer/Data Analyst/Data Engineer)`**
 
+---
+
+Overall 4+ years of experience in software and IT services delivery.
+
+As a Data Science student, I combine meticulous analysis with deep algorithmic thinking, collaborating empathetically across teams while maintaining an agile approach to continuously experiment, adapt, and optimize data-driven solutions. My expertise extends to data engineering and data analytics, allowing me to build robust data pipelines, ensure data quality, and extract actionable insights from complex datasets.
+
+I have hands-on experience with various data engineering tools and technologies, including SQL, Apache Spark, and ETL processes, which enable me to efficiently collect, process, and manage large volumes of data. My proficiency in data analytics tools such as Python, Power BI and Tableau empowers me to conduct detailed statistical analysis, create insightful visualizations, and develop predictive models that drive strategic decision-making.
+
+I’m meticulous, love to do deep work as an empathetic team player, with an agile mindset: i.e., experimenting to learn, unlearn, and relearn. My approach involves leveraging data engineering and analytics to deliver high-quality, data-driven solutions that align with business goals and enhance overall performance.
+
+---
 LinkedIn Profile: [Praveen Basavapatna Madhava](https://www.linkedin.com/in/praveen-basavapatna-madhava/)
 
 ---
