@@ -36,7 +36,8 @@ LinkedIn Profile: [Praveen Basavapatna Madhava](https://www.linkedin.com/in/prav
 
 <img align="left" alt="Apache Spark" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" title="Apache Spark"/>
 <img align="left" alt="Apache Kafka" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" title="Apache Kafka"/>
-
+<img align="left" alt="Apache Kafka" width="40px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Apache Airflow"/>/>
+          
 <br clear="left" />
 
 ### **_Data Analytics_**
