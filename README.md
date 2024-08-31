@@ -1,6 +1,6 @@
 # Praveen Basavapatna Madhava
 
-**`Coding Aficionado (Developer/Data Analyst/Data Engineer)`**
+**`Coding Aficionado (Developer/Data Analyst/Data Engineer/ Data Science Student)`**
 
 ---
 
