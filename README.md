@@ -4,7 +4,7 @@
 
 ---
 
-Overall 4+ years of experience in software and IT services delivery.
+Overall 3+ years of experience in software and IT services delivery.
 
 As a Data Science student, I combine meticulous analysis with deep algorithmic thinking, collaborating empathetically across teams while maintaining an agile approach to continuously experiment, adapt, and optimize data-driven solutions. My expertise extends to data engineering and data analytics, allowing me to build robust data pipelines, ensure data quality, and extract actionable insights from complex datasets.
 
