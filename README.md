@@ -3,11 +3,11 @@
 **`Coding Aficionado (Developer | Data Analyst | Data Engineer | Data Science Enthusiast)`**
 
 ---
-I am a data enthusiast and Master's graduate in Applied Data Science and Analytics, with over 3+ years of experience in software development and IT services. My academic journey has fueled my passion for transforming raw data into meaningful insights, blending meticulous analysis with algorithmic thinking. I thrive in collaborative environments, working across teams to create and optimize data-driven solutions in agile settings.
+**I am a data enthusiast and Master's graduate in Applied Data Science and Analytics, with over 3+ years of experience in software development and IT services. My academic journey has fueled my passion for transforming raw data into meaningful insights, blending meticulous analysis with algorithmic thinking. I thrive in collaborative environments, working across teams to create and optimize data-driven solutions in agile settings.
 
-My specialization lies in data engineering and data analytics, where I focus on designing and optimizing data pipelines, ensuring data quality, and deriving actionable insights from complex datasets. With a robust technical skill set in various data engineering and analytics tools, I am adept at efficiently managing large volumes of data and delivering impactful business solutions through comprehensive statistical analyses, compelling visualizations, and advanced machine learning models.
+My specialization lies in data engineering and data analytics, where I focus on designing and optimizing data pipelines, ensuring data quality, and deriving actionable insights from complex datasets. With a robust technical skill set in various data engineering and analytics tools, I am adept at efficiently managing large volumes of data and delivering impactful business solutions through comprehensive statistical analyses, compelling visualizations, and advanced machine learning models.**
 
-As a software engineer, I continuously seek opportunities to innovate and enhance processes, leveraging my analytical mindset and technical expertise to drive performance and foster data-driven decision-making across organizations.
+**As a software engineer, I continuously seek opportunities to innovate and enhance processes, leveraging my analytical mindset and technical expertise to drive performance and foster data-driven decision-making across organizations.**
 ---
 LinkedIn Profile: [Praveen Basavapatna Madhava](https://www.linkedin.com/in/praveen-basavapatna-madhava/)
 
