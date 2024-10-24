@@ -1,17 +1,13 @@
 # Praveen Basavapatna Madhava
 
-**`Coding Aficionado (Developer/Data Analyst/Data Engineer/ Data Science Student)`**
+**`Coding Aficionado (Developer | Data Analyst | Data Engineer | Data Science Enthusiast)`**
 
 ---
+I am a data enthusiast and Master's graduate in Applied Data Science and Analytics, with over 3+ years of experience in software development and IT services. My academic journey has fueled my passion for transforming raw data into meaningful insights, blending meticulous analysis with algorithmic thinking. I thrive in collaborative environments, working across teams to create and optimize data-driven solutions in agile settings.
 
-Overall 3+ years of experience in software and IT services delivery.
+My specialization lies in data engineering and data analytics, where I focus on designing and optimizing data pipelines, ensuring data quality, and deriving actionable insights from complex datasets. With a robust technical skill set in various data engineering and analytics tools, I am adept at efficiently managing large volumes of data and delivering impactful business solutions through comprehensive statistical analyses, compelling visualizations, and advanced machine learning models.
 
-During my master, I combine meticulous analysis with deep algorithmic thinking, collaborating empathetically across teams while maintaining an agile approach to continuously experiment, adapt, and optimize data-driven solutions. My expertise extends to data engineering and data analytics, allowing me to build robust data pipelines, ensure data quality, and extract actionable insights from complex datasets.
-
-I have hands-on experience with various data engineering tools and technologies, including SQL, Apache Spark, and ETL processes, which enable me to efficiently collect, process, and manage large volumes of data. My proficiency in data analytics tools such as Python, Power BI and Tableau empowers me to conduct detailed statistical analysis, create insightful visualizations, and develop predictive models that drive strategic decision-making.
-
-I’m meticulous, love to do deep work as an empathetic team player, with an agile mindset: i.e., experimenting to learn, unlearn, and relearn. My approach involves leveraging data engineering and analytics to deliver high-quality, data-driven solutions that align with business goals and enhance overall performance.
-
+As a software engineer, I continuously seek opportunities to innovate and enhance processes, leveraging my analytical mindset and technical expertise to drive performance and foster data-driven decision-making across organizations.
 ---
 LinkedIn Profile: [Praveen Basavapatna Madhava](https://www.linkedin.com/in/praveen-basavapatna-madhava/)
 
